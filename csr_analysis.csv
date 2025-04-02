@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Total_Tickets_Score,Avg_Resolution_Time,Customer_Satisfaction,Escalation_Avoidance,FCR_Rate,Attendance
+1,Zoro Roronoa,95,20,98,90,92,98
+2,Alice Johnson,88,25,92,85,88,95
+3,Bob Smith,70,45,85,80,75,90
+4,Carol Lee,92,18,95,93,90,97
+5,David Kim,65,55,80,78,70,88
+6,Emily Davis,85,30,90,88,85,93
+7,Frank Miller,78,40,88,82,80,90
+8,Grace Lee,90,22,94,91,93,96
+9,Henry Brown,60,50,82,75,72,85
+10,Irene Wilson,80,35,88,87,85,92
+11,Jack Thompson,75,38,87,84,83,90
+12,Karen Martinez,82,28,91,89,90,94
+13,Larry Garcia,68,48,84,77,79,87
+14,Monica Patel,94,19,97,92,95,99
+15,Nathan Scott,72,42,86,80,78,90
+16,Olivia Nguyen,87,27,93,90,91,95
+17,Peter Brown,66,52,83,76,74,88
+18,Quincy Adams,79,33,89,86,87,93
+19,Rachel Green,91,24,96,94,92,97
+20,Samuel Turner,77,37,90,85,86,92
