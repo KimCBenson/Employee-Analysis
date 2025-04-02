@@ -1,0 +1,690 @@
+Gender,Age,Department,Country,Center,Annual Salary,Job Rate,Sick Leaves,Unpaid Leaves,Overtime Hours
+Female,58,Environmental Compliance,Egypt,Main,12538.8,5,0,0,9
+Male,44,Manufacturing,Egypt,West,24305.4,5,3,0,43
+Female,56,Account Management,Egypt,Main,36849.6,5,2,0,3
+Male,59,Quality Control,Egypt,Main,40458.6,5,6,1,9
+Female,58,Facilities/Engineering,Egypt,Main,15184.8,4.5,4,0,46
+Male,32,IT,United Arab Emirates,North,10672.2,3,0,0,3
+Male,26,Quality Control,Egypt,North,19580.4,5,6,5,8
+Male,56,Facilities/Engineering,Egypt,Main,32079.6,4.5,0,0,6
+Male,62,Green Building,United Arab Emirates,Main,12209.4,3,1,0,0
+Female,29,Sales,Egypt,Main,18252,1,0,0,6
+Male,50,Facilities/Engineering,Egypt,North,35519.4,5,0,0,0
+Male,47,Research Center,Saudi Arabia,Main,35469,3,6,0,2
+Male,44,Environmental Compliance,Egypt,Main,34675.2,5,0,0,4
+Female,30,Manufacturing,Egypt,North,13770,4.5,3,0,9
+Male,61,Manufacturing,United Arab Emirates,Main,13330.8,5,0,0,10
+Male,31,Manufacturing,Egypt,Main,9059.4,5,0,0,8
+Male,27,Account Management,Egypt,Main,42764.4,5,0,0,7
+Male,42,Account Management,United Arab Emirates,Main,35733.6,5,0,0,14
+Female,58,Quality Assurance,Egypt,North,28890,3,1,6,4
+Female,29,Manufacturing,Egypt,North,29192.4,2,0,0,4
+Female,50,IT,Egypt,Main,34095.6,1,6,1,4
+Male,66,Manufacturing,Egypt,Main,37044,1,6,4,7
+Female,31,Quality Assurance,Saudi Arabia,Main,9072,3,4,0,10
+Female,28,Facilities/Engineering,Saudi Arabia,West,35640,5,0,0,4
+Male,50,Research Center,United Arab Emirates,Main,15447.6,2,6,5,4
+Male,36,Product Development,Egypt,Main,22755.6,5,0,0,7
+Male,56,Environmental Compliance,Egypt,North,42260.4,4.5,3,0,1
+Male,52,Marketing,Egypt,East,42436.8,3,0,0,8
+Female,25,IT,Saudi Arabia,West,22582.8,2,0,1,9
+Male,65,Manufacturing,Syria,Main,36829.8,2,0,0,0
+Female,28,Facilities/Engineering,Egypt,Main,21589.2,5,6,0,85
+Female,23,Human Resources,United Arab Emirates,Main,26190,4.5,0,0,10
+Female,39,Manufacturing,Egypt,South,13899.6,1,0,0,7
+Female,50,Product Development,Lebanon,North,36039.6,3,0,2,6
+Male,53,Account Management,Egypt,East,39778.2,5,0,0,1
+Male,28,Manufacturing,Egypt,Main,17929.8,3,0,0,4
+Male,35,Sales,Syria,Main,25313.4,1,5,0,0
+Male,30,Sales,Egypt,North,17791.2,2,0,0,7
+Male,43,Quality Control,Egypt,Main,34788.6,5,0,2,5
+Male,22,Environmental Health/Safety,Egypt,Main,21117.6,4.5,0,0,8
+Female,43,Account Management,Egypt,Main,21243.6,4.5,6,0,6
+Male,60,Quality Assurance,Egypt,North,13797,5,6,0,5
+Male,59,Marketing,Egypt,West,20160,4.5,0,0,0
+Male,36,Marketing,Egypt,West,24292.8,4.5,6,0,1
+Female,48,Creative,Egypt,West,26092.8,3,0,0,2
+Male,32,Manufacturing,United Arab Emirates,West,23776.2,1,6,0,4
+Female,58,Account Management,United Arab Emirates,West,21837.6,5,0,0,3
+Male,63,IT,Egypt,West,36313.2,5,0,4,0
+Male,60,Quality Control,Egypt,Main,18484.2,5,6,0,0
+Male,58,Quality Control,United Arab Emirates,Main,33213.6,4.5,0,2,4
+Male,25,Account Management,Egypt,Main,18585,5,0,0,98
+Male,28,Marketing,Egypt,North,33352.2,3,4,0,1
+Male,27,Product Development,United Arab Emirates,West,27468,2,6,0,10
+Male,30,Account Management,Egypt,Main,29937.6,2,6,0,57
+Male,26,Quality Control,Egypt,North,41365.8,5,0,0,3
+Male,24,Account Management,Egypt,North,14527.8,4.5,0,2,10
+Male,53,Facilities/Engineering,Egypt,West,36187.2,4.5,5,0,7
+Female,23,Manufacturing,Egypt,Main,30099.6,3,3,0,12
+Male,41,Manufacturing,Egypt,West,27480.6,2,0,0,1
+Male,64,Quality Control,Egypt,North,22617,1,0,0,4
+Male,52,Quality Assurance,Egypt,North,15145.2,4.5,0,0,92
+Male,49,Quality Assurance,Egypt,West,35368.2,3,5,1,2
+Male,61,Account Management,United Arab Emirates,South,10936.8,4.5,2,0,2
+Male,30,Green Building,United Arab Emirates,Main,22377.6,2,0,0,0
+Male,54,IT,United Arab Emirates,North,11403,3,0,0,8
+Female,26,Facilities/Engineering,Egypt,South,32680.8,3,4,0,1
+Male,45,Manufacturing,Saudi Arabia,Main,28513.8,5,0,0,9
+Male,28,Quality Control,Saudi Arabia,Main,36855,3,3,0,14
+Male,46,Product Development,United Arab Emirates,South,9374.4,5,5,0,8
+Male,60,Quality Control,Saudi Arabia,Main,43381.8,1,0,0,1
+Male,66,Training,Egypt,Main,41000.4,3,4,6,5
+Female,47,Account Management,Egypt,Main,33436.8,2,0,0,8
+Male,44,Account Management,Syria,South,31739.4,5,2,2,10
+Female,39,Manufacturing,Egypt,West,11188.8,5,0,6,2
+Female,33,IT,United Arab Emirates,North,21168,2,0,0,8
+Female,23,IT,Syria,Main,20433.6,5,0,0,6
+Male,36,Quality Assurance,Egypt,North,39740.4,3,0,0,6
+Male,63,Product Development,Egypt,South,31626,1,0,0,3
+Male,55,Quality Control,Egypt,Main,17211.6,2,0,0,13
+Male,58,Green Building,Egypt,Main,35582.4,3,3,0,3
+Male,43,Major Mfg Projects,Egypt,North,17413.2,4.5,0,1,14
+Male,41,Product Development,Egypt,Main,40572,5,6,0,3
+Male,53,Facilities/Engineering,Egypt,South,26157.6,3,0,0,4
+Male,55,Manufacturing,Egypt,South,35002.8,3,2,0,20
+Male,38,Quality Control,Egypt,Main,29383.2,5,0,0,2
+Male,64,Manufacturing,Egypt,West,24721.2,4.5,6,0,10
+Male,64,Quality Control,United Arab Emirates,Main,14679,5,0,0,9
+Female,32,Quality Control,United Arab Emirates,South,23716.8,5,4,0,9
+Male,28,Quality Control,Saudi Arabia,Main,22692.6,5,0,0,82
+Female,61,Manufacturing,United Arab Emirates,South,10519.2,5,0,0,9
+Male,43,Creative,Saudi Arabia,West,29131.2,3,3,0,10
+Male,40,Manufacturing,Egypt,Main,37510.2,4.5,0,0,8
+Male,41,Quality Control,United Arab Emirates,North,36338.4,5,1,6,3
+Male,49,Account Management,Egypt,North,43470,2,0,4,9
+Female,57,Manufacturing,Saudi Arabia,Main,17409.6,5,0,0,4
+Male,52,Creative,Egypt,West,24066,5,2,0,5
+Male,36,Manufacturing,United Arab Emirates,North,18635.4,3,5,4,8
+Female,61,Product Development,Egypt,Main,9493.2,3,0,0,1
+Male,36,Research/Development,Egypt,Main,26863.2,3,5,0,2
+Male,53,Manufacturing,Saudi Arabia,South,41567.4,5,1,0,0
+Male,65,Account Management,Egypt,South,32041.8,5,0,0,86
+Female,66,Manufacturing,Egypt,North,11242.8,2,2,0,5
+Female,50,Quality Control,Saudi Arabia,Main,28933.2,5,6,0,1
+Male,63,Marketing,Egypt,North,13141.8,5,0,0,0
+Male,66,Sales,Egypt,North,10180.8,4.5,1,0,7
+Female,46,Facilities/Engineering,United Arab Emirates,North,27270,3,0,0,10
+Male,52,IT,United Arab Emirates,North,21168,5,1,0,35
+Female,37,Manufacturing,Egypt,North,11437.2,2,0,0,14
+Female,31,Facilities/Engineering,United Arab Emirates,North,36763.2,5,1,0,8
+Male,34,Facilities/Engineering,United Arab Emirates,Main,26699.4,4.5,1,5,0
+Male,41,Human Resources,Syria,East,23700.6,5,1,0,1
+Female,53,Manufacturing,Egypt,East,19861.2,5,1,0,9
+Female,26,Manufacturing,Saudi Arabia,Main,34214.4,5,0,0,18
+Male,55,Product Development,United Arab Emirates,North,41693.4,4.5,1,0,7
+Male,42,Environmental Health/Safety,Egypt,Main,19038.6,5,0,0,2
+Female,34,Quality Assurance,Egypt,West,36871.2,5,0,0,2
+Male,50,Facilities/Engineering,Egypt,Main,20449.8,1,6,0,4
+Female,46,Marketing,Egypt,Main,36331.2,2,0,0,1
+Male,32,Quality Assurance,Syria,Main,40509,2,5,0,2
+Male,56,Research/Development,Egypt,North,23385.6,5,0,0,0
+Female,35,Quality Control,Egypt,West,17366.4,1,0,3,4
+Male,43,Manufacturing,Egypt,West,11503.8,5,0,0,12
+Male,25,Marketing,Egypt,South,14074.2,3,3,0,8
+Male,25,Facilities/Engineering,Egypt,East,41517,5,0,0,2
+Female,40,Sales,United Arab Emirates,Main,21157.2,3,6,0,116
+Female,48,Quality Control,Egypt,Main,16740,1,0,0,3
+Female,56,Account Management,Egypt,West,29484,1,4,6,9
+Male,22,Facilities/Engineering,Egypt,Main,29799,1,0,0,73
+Male,37,IT,Egypt,North,19819.8,3,6,0,2
+Male,24,Training,United Arab Emirates,Main,41113.8,3,0,0,3
+Male,33,Marketing,Egypt,Main,39274.2,3,0,4,0
+Female,61,IT,United Arab Emirates,West,32605.2,4.5,2,0,15
+Female,51,Research/Development,Egypt,North,8996.4,1,1,0,5
+Male,52,Manufacturing,Syria,Main,30202.2,3,0,0,100
+Male,61,Account Management,Egypt,Main,15939,3,0,0,5
+Male,27,Creative,Saudi Arabia,West,13091.4,3,2,0,87
+Male,35,Manufacturing,United Arab Emirates,Main,34234.2,5,0,0,7
+Male,60,Manufacturing,Egypt,West,19189.8,4.5,0,4,2
+Male,32,IT,Egypt,Main,25401.6,1,2,0,70
+Male,41,Professional Training Group,Saudi Arabia,Main,30025.8,3,0,0,0
+Female,31,Quality Control,United Arab Emirates,South,23349.6,3,0,0,8
+Male,58,Marketing,United Arab Emirates,Main,29005.2,3,6,0,6
+Male,41,Quality Assurance,United Arab Emirates,North,21130.2,1,0,0,12
+Female,32,Quality Control,Egypt,South,10573.2,5,5,0,8
+Male,25,Account Management,Egypt,North,36930.6,3,6,0,71
+Male,33,Marketing,Saudi Arabia,East,15813,3,6,0,0
+Male,66,Manufacturing,Egypt,West,19114.2,5,4,0,6
+Male,63,Manufacturing,United Arab Emirates,North,17022.6,2,0,0,8
+Male,47,Facilities/Engineering,United Arab Emirates,North,32457.6,1,6,0,6
+Male,29,Account Management,Egypt,North,32923.8,4.5,0,1,5
+Male,22,Account Management,Saudi Arabia,South,10596.6,1,4,0,7
+Female,29,Facilities/Engineering,Egypt,South,31460.4,4.5,0,0,3
+Female,31,Account Management,United Arab Emirates,Main,12625.2,3,1,0,10
+Male,23,Account Management,United Arab Emirates,Main,29345.4,2,0,0,5
+Male,29,Sales,Egypt,South,11718,3,0,0,77
+Male,47,Marketing,United Arab Emirates,Main,40420.8,3,0,0,0
+Male,56,Quality Control,Egypt,East,13557.6,5,1,0,4
+Male,64,Facilities/Engineering,United Arab Emirates,North,36842.4,4.5,0,0,10
+Male,22,Research Center,United Arab Emirates,North,38656.8,2,4,0,8
+Male,46,Quality Control,Egypt,North,27543.6,3,0,0,4
+Male,24,Product Development,Syria,North,12385.8,5,0,0,13
+Male,27,Product Development,Egypt,West,18383.4,4.5,0,0,10
+Male,36,Quality Assurance,Egypt,North,12335.4,3,6,0,4
+Male,52,Manufacturing,Saudi Arabia,Main,26208,5,0,5,13
+Male,42,IT,Saudi Arabia,North,39803.4,5,0,0,10
+Female,33,Creative,Egypt,Main,16588.8,4.5,0,0,76
+Male,31,Quality Assurance,Egypt,West,25313.4,4.5,6,0,0
+Male,58,Quality Control,United Arab Emirates,Main,39816,5,0,5,10
+Male,41,Marketing,Egypt,Main,21016.8,4.5,0,3,3
+Female,56,Quality Control,Egypt,Main,10000.8,2,3,0,1
+Male,48,Marketing,Egypt,Main,28148.4,5,3,0,7
+Male,22,Account Management,Egypt,North,32419.8,5,0,0,28
+Female,33,Quality Assurance,United Arab Emirates,Main,24991.2,2,0,3,5
+Male,66,Manufacturing,Egypt,North,33402.6,1,0,0,12
+Male,27,Professional Training Group,Egypt,North,41353.2,1,0,0,2
+Male,33,Manufacturing,Syria,Main,18711,2,5,0,12
+Female,39,Manufacturing,Saudi Arabia,West,23068.8,4.5,1,0,9
+Male,45,Manufacturing,Egypt,North,15082.2,2,4,0,8
+Male,26,Training,Egypt,North,31084.2,3,0,0,7
+Female,61,Account Management,Saudi Arabia,South,11383.2,5,4,6,7
+Male,56,Account Management,Egypt,Main,26271,3,1,0,9
+Female,33,Manufacturing,Egypt,West,16934.4,3,5,0,7
+Male,25,Environmental Health/Safety,United Arab Emirates,South,19164.6,5,6,0,3
+Male,58,Human Resources,Syria,Main,38694.6,5,6,0,2
+Male,58,Training,Saudi Arabia,Main,22226.4,3,0,0,111
+Male,50,Manufacturing,Egypt,West,38467.8,3,0,3,6
+Male,60,Manufacturing,United Arab Emirates,Main,39790.8,3,2,5,10
+Male,61,Facilities/Engineering,Egypt,Main,13545,4.5,6,0,7
+Female,38,Product Development,Egypt,West,28663.2,3,0,1,7
+Male,22,Account Management,United Arab Emirates,Main,27052.2,3,0,4,2
+Male,41,Account Management,Egypt,North,33553.8,3,0,0,2
+Female,48,Account Management,Syria,West,14320.8,3,0,3,7
+Male,33,Facilities/Engineering,United Arab Emirates,West,14691.6,5,0,4,5
+Male,45,Manufacturing,Syria,Main,35154,5,6,0,3
+Male,41,Account Management,Egypt,West,29080.8,2,0,0,13
+Male,55,IT,Syria,East,22856.4,3,0,0,6
+Male,42,IT,Egypt,Main,19870.2,4.5,0,0,7
+Female,61,Quality Assurance,United Arab Emirates,South,10443.6,5,0,4,9
+Male,53,Manufacturing,United Arab Emirates,Main,23499,4.5,0,0,4
+Female,42,IT,Egypt,North,7678.8,5,0,0,10
+Female,43,Major Mfg Projects,Saudi Arabia,West,27064.8,2,0,3,192
+Male,57,Quality Control,United Arab Emirates,North,15523.2,5,4,5,2
+Male,59,Quality Control,United Arab Emirates,North,31021.2,3,6,3,2
+Male,29,Quality Control,United Arab Emirates,West,29055.6,1,6,0,7
+Male,53,Manufacturing,Egypt,West,14149.8,1,0,0,7
+Female,32,Marketing,Egypt,North,14806.8,1,1,0,8
+Female,29,Account Management,Syria,Main,31633.2,2,0,1,4
+Male,27,IT,Egypt,Main,23524.2,3,1,0,3
+Female,47,Creative,Egypt,North,10184.4,5,0,4,7
+Male,66,Quality Assurance,United Arab Emirates,North,33150.6,3,3,6,10
+Female,28,Account Management,Egypt,Main,13046.4,5,3,0,10
+Male,37,Account Management,Egypt,North,21331.8,4.5,2,5,6
+Male,58,Quality Assurance,Egypt,Main,12448.8,5,0,0,5
+Male,39,Quality Control,United Arab Emirates,North,29710.8,3,0,0,14
+Female,65,Quality Control,Syria,West,25693.2,4.5,0,0,7
+Male,43,Quality Control,Egypt,Main,43192.8,3,5,0,10
+Male,26,IT,United Arab Emirates,North,32835.6,5,0,0,0
+Female,60,Quality Control,Saudi Arabia,North,26190,5,0,0,10
+Male,44,Facilities/Engineering,Egypt,Main,18622.8,4.5,5,6,7
+Male,63,Marketing,Saudi Arabia,West,16783.2,2,0,0,14
+Female,32,Manufacturing,United Arab Emirates,Main,15681.6,3,0,0,0
+Male,66,Quality Assurance,United Arab Emirates,East,21596.4,5,6,0,11
+Female,43,Manufacturing,Egypt,Main,8251.2,5,4,1,13
+Female,22,Quality Assurance,Egypt,North,11469.6,3,1,0,7
+Female,26,Manufacturing,Egypt,Main,18316.8,5,0,0,5
+Male,62,Marketing,Egypt,East,37837.8,1,6,1,6
+Male,27,Product Development,United Arab Emirates,Main,22894.2,5,1,0,1
+Male,38,Account Management,Egypt,South,15548.4,5,1,5,10
+Female,23,Quality Control,Egypt,Main,26319.6,3,0,0,2
+Male,55,Training,Saudi Arabia,North,27984.6,2,0,0,1
+Male,49,IT,Egypt,East,35154,1,1,0,8
+Male,56,Research Center,Syria,Main,13809.6,4.5,4,0,8
+Male,39,Quality Control,Egypt,North,15813,1,6,0,15
+Male,48,Quality Control,Egypt,West,19656,3,1,0,183
+Female,56,Facilities/Engineering,Egypt,North,32248.8,1,3,0,8
+Male,29,Professional Training Group,Saudi Arabia,South,27468,4.5,0,0,80
+Female,51,Quality Assurance,Egypt,South,16448.4,3,6,5,4
+Female,53,Quality Control,Egypt,North,16988.4,1,2,0,3
+Male,24,Environmental Compliance,Egypt,East,28375.2,3,0,0,2
+Female,58,Quality Control,Egypt,Main,33750,5,0,0,5
+Female,66,Manufacturing,Egypt,North,8467.2,3,2,3,9
+Male,63,Marketing,Egypt,North,27493.2,4.5,6,0,74
+Male,31,IT,Egypt,North,16896.6,5,3,0,8
+Male,36,Manufacturing,Egypt,West,19895.4,3,0,0,14
+Female,48,Quality Control,Egypt,Main,12538.8,5,0,1,97
+Male,27,Account Management,Saudi Arabia,North,39538.8,1,0,5,9
+Female,30,Product Development,Egypt,West,17776.8,5,0,0,7
+Female,39,Creative,Egypt,East,36590.4,3,3,0,0
+Male,40,Manufacturing,Egypt,Main,13545,3,0,4,61
+Female,30,Manufacturing,United Arab Emirates,East,32918.4,2,3,6,6
+Male,55,Marketing,Lebanon,South,18295.2,2,0,3,1
+Female,24,IT,Egypt,North,22410,2,0,0,5
+Female,56,Training,Egypt,West,21438,3,6,2,6
+Female,41,Marketing,Egypt,South,35812.8,4.5,0,0,8
+Male,31,Quality Assurance,Syria,Main,31663.8,4.5,2,0,8
+Male,48,Professional Training Group,United Arab Emirates,South,38178,2,6,0,5
+Male,46,Quality Control,Saudi Arabia,West,35028,3,3,0,2
+Male,59,Quality Assurance,Syria,West,27619.2,4.5,0,4,1
+Male,50,Training,Syria,Main,37132.2,3,5,0,1
+Male,45,Manufacturing,Egypt,North,37044,1,6,0,13
+Female,55,Product Development,Lebanon,Main,35478,3,2,0,0
+Male,61,Quality Control,United Arab Emirates,Main,39538.8,5,0,0,10
+Female,29,Quality Control,Egypt,West,22399.2,3,1,0,2
+Male,22,Manufacturing,Syria,Main,11264.4,3,6,0,93
+Male,46,Quality Control,Saudi Arabia,North,18093.6,4.5,3,4,4
+Male,36,Account Management,Egypt,Main,32394.6,3,1,0,6
+Female,63,Creative,Lebanon,North,12117.6,4.5,2,4,7
+Female,33,Creative,Egypt,North,26146.8,3,6,0,16
+Female,26,Product Development,United Arab Emirates,Main,22744.8,3,0,0,9
+Female,43,Product Development,Egypt,Main,9612,4.5,0,0,13
+Male,49,Professional Training Group,Egypt,West,20223,4.5,5,4,9
+Male,26,Account Management,Egypt,North,26346.6,2,0,0,6
+Male,43,Manufacturing,United Arab Emirates,North,32054.4,5,0,0,11
+Female,28,Quality Control,Saudi Arabia,South,19429.2,4.5,2,0,6
+Female,38,Manufacturing,Egypt,East,26492.4,5,1,0,6
+Female,61,Account Management,Egypt,North,10789.2,1,5,0,61
+Female,33,Manufacturing,Syria,West,17085.6,4.5,0,0,5
+Male,54,Manufacturing,Egypt,Main,24582.6,4.5,1,0,8
+Male,34,Facilities/Engineering,Syria,South,35506.8,2,4,0,8
+Female,65,Green Building,United Arab Emirates,North,35370,3,1,2,12
+Male,46,Manufacturing,Egypt,Main,12222,5,0,5,121
+Female,62,Sales,Egypt,North,21470.4,3,0,0,7
+Male,46,Manufacturing,United Arab Emirates,West,18194.4,5,3,0,7
+Female,43,Manufacturing,Egypt,South,28414.8,3,0,0,7
+Male,25,Account Management,United Arab Emirates,East,33453,5,0,0,6
+Male,38,Facilities/Engineering,United Arab Emirates,West,29194.2,3,6,1,10
+Female,27,Manufacturing,Egypt,East,18273.6,4.5,4,0,6
+Female,46,Quality Assurance,Syria,West,34041.6,5,0,0,8
+Male,56,IT,Egypt,Main,40874.4,4.5,0,0,78
+Female,62,Quality Control,Egypt,North,23144.4,5,0,0,45
+Male,43,Human Resources,United Arab Emirates,Main,27392.4,2,6,0,10
+Male,30,Sales,Egypt,South,15838.2,4.5,1,3,2
+Female,57,Product Development,Syria,North,9622.8,3,0,2,6
+Male,40,Creative,United Arab Emirates,South,28085.4,3,3,0,1
+Female,62,Quality Assurance,Egypt,West,22842,5,0,0,0
+Female,49,Facilities/Engineering,Saudi Arabia,Main,35564.4,4.5,1,6,9
+Female,31,Facilities/Engineering,Egypt,North,17064,5,2,5,6
+Male,60,Human Resources,Lebanon,Main,35519.4,4.5,5,0,51
+Male,65,Manufacturing,Egypt,Main,29975.4,4.5,1,0,10
+Male,36,Professional Training Group,Saudi Arabia,East,22503.6,3,4,4,1
+Female,60,Account Management,Saudi Arabia,East,28512,4.5,1,5,4
+Male,47,Account Management,Egypt,West,12751.2,3,1,0,7
+Male,37,Product Development,United Arab Emirates,Main,29874.6,5,0,0,1
+Female,22,Professional Training Group,United Arab Emirates,East,21232.8,4.5,0,0,8
+Female,41,Quality Assurance,Egypt,East,23544,5,3,0,0
+Male,35,Manufacturing,Egypt,Main,25842.6,3,0,0,2
+Female,38,Product Development,United Arab Emirates,North,32065.2,1,0,0,11
+Male,34,Facilities/Engineering,United Arab Emirates,Main,34259.4,3,0,0,7
+Female,32,Quality Control,United Arab Emirates,Main,13586.4,5,0,0,5
+Female,55,Quality Assurance,Lebanon,South,22334.4,1,0,1,0
+Female,31,Quality Assurance,Egypt,Main,33037.2,4.5,5,0,9
+Female,50,Account Management,Saudi Arabia,East,28155.6,4.5,0,0,9
+Male,30,Manufacturing,United Arab Emirates,Main,35091,1,0,4,3
+Male,46,Quality Control,Egypt,West,27808.2,5,0,0,70
+Male,30,Manufacturing,United Arab Emirates,North,38908.8,5,3,0,10
+Male,37,Manufacturing,Saudi Arabia,Main,20097,5,0,0,0
+Female,60,Marketing,United Arab Emirates,North,21394.8,2,0,0,3
+Female,65,Marketing,Saudi Arabia,North,10821.6,5,1,0,3
+Male,29,Manufacturing,Egypt,North,24595.2,3,1,1,34
+Male,40,Product Development,Egypt,South,28715.4,5,0,0,4
+Female,64,Green Building,Egypt,North,15973.2,4.5,0,0,105
+Male,38,Manufacturing Admin,United Arab Emirates,Main,27808.2,3,2,0,0
+Female,30,Manufacturing,United Arab Emirates,East,29473.2,4.5,0,0,6
+Male,51,Facilities/Engineering,United Arab Emirates,West,19832.4,2,0,0,6
+Male,47,Facilities/Engineering,Saudi Arabia,West,25414.2,3,6,0,8
+Male,37,Manufacturing,United Arab Emirates,Main,30517.2,4.5,0,2,10
+Male,42,Environmental Compliance,Egypt,Main,31991.4,3,0,0,0
+Female,51,Marketing,Egypt,Main,9601.2,3,1,1,8
+Female,48,Facilities/Engineering,Saudi Arabia,North,36601.2,3,1,0,7
+Female,39,Quality Assurance,Egypt,West,36936,5,6,0,10
+Male,36,Quality Control,United Arab Emirates,South,35418.6,3,0,1,9
+Male,37,IT,United Arab Emirates,Main,23448.6,3,0,5,9
+Female,22,Quality Control,Syria,Main,13543.2,5,0,0,8
+Male,40,Quality Assurance,Egypt,North,40559.4,3,0,0,5
+Male,50,Manufacturing,Saudi Arabia,Main,18005.4,3,0,5,8
+Female,62,Manufacturing,United Arab Emirates,South,26654.4,1,4,0,3
+Male,34,Quality Control,United Arab Emirates,Main,18673.2,5,0,0,3
+Male,28,Training,Egypt,Main,33226.2,5,0,0,50
+Male,50,Manufacturing,Egypt,Main,40824,5,0,0,6
+Male,50,Account Management,Egypt,West,10508.4,2,6,0,13
+Male,61,Professional Training Group,Egypt,North,14716.8,5,0,0,8
+Female,34,Professional Training Group,Egypt,Main,12700.8,5,2,0,6
+Female,56,Manufacturing,Saudi Arabia,North,11404.8,3,0,0,94
+Male,48,Quality Assurance,Egypt,North,19542.6,1,0,0,148
+Male,39,Manufacturing,Syria,East,35683.2,3,0,0,1
+Male,38,Green Building,Saudi Arabia,North,37875.6,4.5,0,3,7
+Male,44,Account Management,Egypt,North,25729.2,5,0,3,64
+Male,48,Marketing,United Arab Emirates,North,18408.6,5,1,0,7
+Male,53,Manufacturing,Egypt,Main,29131.2,3,0,0,31
+Male,56,Marketing,United Arab Emirates,Main,38505.6,4.5,0,0,9
+Male,63,Manufacturing Admin,Egypt,East,29748.6,5,0,0,1
+Male,22,Marketing,Egypt,East,36590.4,5,6,0,3
+Female,29,Account Management,Egypt,East,28015.2,3,5,0,0
+Male,57,Facilities/Engineering,United Arab Emirates,East,21546,5,0,0,9
+Male,57,Creative,Egypt,Main,28072.8,5,1,0,78
+Male,46,Manufacturing,Saudi Arabia,South,26825.4,4.5,0,0,26
+Male,38,Research/Development,Egypt,South,32029.2,3,1,0,3
+Female,37,Manufacturing,Egypt,Main,30585.6,5,1,0,5
+Male,32,Quality Control,Egypt,North,20172.6,5,0,0,3
+Male,62,Quality Control,Saudi Arabia,West,11327.4,5,6,0,38
+Male,56,Manufacturing,Saudi Arabia,Main,38568.6,5,0,0,3
+Female,61,Training,United Arab Emirates,West,36007.2,1,0,0,4
+Female,53,Account Management,United Arab Emirates,Main,9698.4,4.5,3,0,11
+Male,37,Product Development,Syria,Main,12222,1,0,0,5
+Female,29,Marketing,Syria,North,35899.2,3,5,0,7
+Female,63,IT,Syria,Main,26773.2,5,0,2,3
+Male,22,Quality Assurance,Saudi Arabia,North,13507.2,4.5,0,0,6
+Male,27,Manufacturing,Egypt,Main,9336.6,3,0,0,1
+Male,36,Creative,Syria,South,27568.8,4.5,5,0,9
+Male,36,Quality Control,Egypt,East,30706.2,5,0,4,8
+Male,23,Manufacturing,United Arab Emirates,North,37258.2,5,1,0,10
+Male,36,Quality Assurance,Egypt,North,32281.2,2,4,0,3
+Female,24,Quality Control,Syria,North,19958.4,3,0,0,2
+Male,59,Environmental Health/Safety,Egypt,Main,25187.4,3,0,0,4
+Male,36,Quality Control,Egypt,Main,28413,5,0,4,10
+Male,40,Quality Control,Egypt,South,23121,3,1,0,50
+Male,39,Account Management,Egypt,North,17816.4,5,4,0,10
+Male,35,Major Mfg Projects,Syria,Main,32898.6,5,4,0,9
+Male,24,Manufacturing,Egypt,West,21571.2,4.5,0,4,15
+Female,40,Manufacturing,Egypt,North,32583.6,3,0,0,6
+Male,56,Manufacturing,Egypt,Main,22642.2,1,6,0,7
+Male,47,Account Management,United Arab Emirates,North,12385.8,2,6,0,0
+Male,64,Manufacturing,Syria,Main,32810.4,3,0,0,1
+Female,23,Manufacturing,United Arab Emirates,North,14925.6,5,0,4,8
+Female,64,Account Management,United Arab Emirates,Main,20271.6,4.5,1,0,0
+Male,48,Facilities/Engineering,Egypt,North,37888.2,5,0,6,11
+Male,56,Training,Egypt,West,29055.6,2,5,5,11
+Male,22,Quality Control,Egypt,East,43066.8,3,4,0,1
+Male,61,Sales,Saudi Arabia,East,20134.8,3,0,0,95
+Male,25,Quality Assurance,Egypt,North,39564,3,6,1,5
+Male,58,Environmental Health/Safety,Egypt,West,27606.6,5,2,0,7
+Male,41,Manufacturing,Saudi Arabia,North,17451,4.5,0,0,6
+Male,33,Training,Egypt,Main,22075.2,2,5,4,76
+Female,24,Quality Control,United Arab Emirates,West,21880.8,5,1,0,3
+Female,42,Facilities/Engineering,Egypt,Main,30056.4,1,2,0,15
+Female,33,Account Management,Saudi Arabia,North,7614,3,6,0,8
+Male,52,Marketing,United Arab Emirates,West,13053.6,3,0,0,1
+Female,44,Account Management,Egypt,Main,14569.2,4.5,1,0,4
+Female,63,Account Management,Saudi Arabia,Main,18349.2,5,0,2,5
+Female,22,Quality Assurance,Saudi Arabia,North,10540.8,5,5,0,2
+Male,44,Account Management,Egypt,South,26233.2,3,0,0,1
+Male,49,Creative,United Arab Emirates,North,18774,4.5,0,2,6
+Female,54,Product Development,Egypt,Main,21783.6,2,0,1,8
+Female,30,IT,Egypt,Main,25930.8,5,0,0,9
+Male,45,Manufacturing,Egypt,North,27556.2,5,1,3,2
+Male,47,Manufacturing,Egypt,Main,34725.6,3,2,0,4
+Male,54,IT,Egypt,West,41038.2,3,0,0,6
+Male,59,IT,Egypt,North,15409.8,1,6,0,10
+Male,44,Major Mfg Projects,Egypt,Main,31361.4,3,6,0,3
+Male,44,Marketing,United Arab Emirates,North,40950,2,1,0,8
+Male,50,Training,United Arab Emirates,Main,39501,3,1,0,5
+Female,49,Quality Assurance,Egypt,Main,35251.2,5,6,5,4
+Male,47,Environmental Compliance,United Arab Emirates,West,37724.4,4.5,1,0,4
+Male,51,Account Management,United Arab Emirates,Main,26170.2,5,6,0,4
+Male,43,Environmental Compliance,Egypt,Main,27329.4,1,4,0,2
+Male,49,Quality Control,Egypt,North,39891.6,4.5,5,0,4
+Male,43,Quality Control,Egypt,Main,30303,5,0,0,97
+Male,35,Facilities/Engineering,Egypt,North,22969.8,4.5,5,0,9
+Male,22,Quality Assurance,Syria,North,14074.2,1,0,0,3
+Female,22,Facilities/Engineering,Egypt,North,29322,2,0,0,3
+Male,62,Marketing,Egypt,South,42966,3,2,0,8
+Female,54,Marketing,Egypt,Main,32583.6,4.5,0,4,4
+Male,45,Facilities/Engineering,Egypt,North,13066.2,3,6,0,5
+Male,42,Quality Assurance,Saudi Arabia,West,32104.8,1,0,0,10
+Male,43,Facilities/Engineering,Syria,West,22138.2,2,6,0,13
+Male,48,Manufacturing,Lebanon,Main,19882.8,3,0,0,15
+Female,57,Research Center,Egypt,East,13284,5,0,6,5
+Male,32,Marketing,Egypt,East,27682.2,1,1,0,8
+Male,64,Manufacturing,Syria,East,32432.4,3,3,0,4
+Male,55,Quality Control,Saudi Arabia,Main,10823.4,5,0,1,5
+Female,62,Training,Egypt,North,20703.6,4.5,0,1,84
+Female,48,Product Development,United Arab Emirates,Main,8845.2,4.5,5,0,7
+Male,28,Manufacturing,United Arab Emirates,North,41554.8,3,0,0,9
+Male,28,Manufacturing,United Arab Emirates,Main,34209,1,0,3,3
+Male,25,Product Development,United Arab Emirates,North,12499.2,5,0,0,3
+Female,53,Account Management,Egypt,East,15638.4,3,4,0,10
+Male,28,Creative,United Arab Emirates,Main,26006.4,2,0,0,0
+Male,43,Quality Assurance,Egypt,East,26384.4,4.5,6,5,2
+Male,50,Account Management,Egypt,Main,14011.2,5,1,6,40
+Male,50,Quality Control,Saudi Arabia,Main,25956,5,0,0,14
+Male,47,Manufacturing,Egypt,Main,22806,3,0,0,5
+Female,58,Sales,Egypt,Main,17614.8,4.5,0,0,4
+Female,37,Quality Assurance,Egypt,North,20498.4,4.5,1,0,2
+Male,54,Account Management,United Arab Emirates,Main,28299.6,5,0,0,8
+Male,54,Manufacturing,United Arab Emirates,North,12524.4,3,6,4,0
+Female,25,Quality Control,Egypt,North,33436.8,2,5,0,9
+Male,47,Manufacturing,United Arab Emirates,Main,24960.6,5,1,0,3
+Male,26,Sales,Saudi Arabia,North,27241.2,5,0,0,13
+Female,48,Manufacturing,Saudi Arabia,Main,14029.2,5,0,0,8
+Male,50,Quality Control,Egypt,North,10470.6,1,1,2,7
+Female,55,Quality Assurance,Egypt,North,25736.4,5,0,4,1
+Female,22,Sales,Egypt,North,33253.2,3,0,0,2
+Female,24,Account Management,Egypt,Main,7732.8,3,0,0,8
+Male,28,Quality Control,Egypt,North,31915.8,5,0,0,2
+Male,46,Quality Control,Egypt,North,26749.8,5,0,0,15
+Male,62,Manufacturing,Egypt,North,39060,5,0,0,7
+Female,22,Account Management,Saudi Arabia,North,17701.2,5,0,0,2
+Female,43,IT,United Arab Emirates,North,9730.8,5,0,2,10
+Male,42,Account Management,Egypt,North,39551.4,3,0,0,10
+Male,52,Major Mfg Projects,Egypt,South,26800.2,5,0,0,3
+Male,49,Environmental Health/Safety,United Arab Emirates,North,18018,3,6,0,0
+Female,37,Environmental Compliance,Egypt,North,19839.6,3,1,0,2
+Male,52,Account Management,Syria,South,26409.6,3,5,2,0
+Male,44,Account Management,United Arab Emirates,Main,14754.6,4.5,0,0,0
+Female,63,Quality Assurance,Egypt,Main,13100.4,3,0,0,10
+Male,65,Product Development,Egypt,South,28513.8,4.5,0,0,8
+Female,50,Account Management,Saudi Arabia,West,34009.2,4.5,0,0,93
+Male,36,Facilities/Engineering,Egypt,North,42134.4,5,0,0,7
+Female,47,Quality Control,Egypt,North,19310.4,5,1,0,9
+Male,43,Manufacturing,Egypt,Main,29887.2,5,4,1,6
+Male,45,IT,Egypt,North,38354.4,3,6,0,94
+Female,44,Product Development,Egypt,Main,21427.2,1,1,0,8
+Male,23,Facilities/Engineering,Egypt,Main,25527.6,4.5,0,0,7
+Male,23,Manufacturing,Egypt,West,19693.8,3,3,0,1
+Female,48,Environmental Health/Safety,United Arab Emirates,North,27918,5,1,5,7
+Female,49,Marketing,Saudi Arabia,West,12506.4,5,0,0,7
+Female,59,Major Mfg Projects,Egypt,North,25714.8,4.5,2,0,10
+Male,59,Quality Control,Egypt,East,11881.8,4.5,0,0,1
+Female,42,Manufacturing,Egypt,North,32097.6,5,0,4,2
+Male,64,Marketing,Egypt,Main,22869,4.5,1,0,9
+Male,60,Quality Assurance,Egypt,North,31651.2,5,6,0,10
+Male,37,Manufacturing,Egypt,East,33402.6,3,0,0,6
+Male,54,Quality Control,Egypt,North,18232.2,3,0,0,7
+Male,63,Professional Training Group,Saudi Arabia,Main,33919.2,1,4,0,6
+Female,42,Quality Assurance,Egypt,East,23803.2,4.5,1,0,4
+Female,61,Manufacturing,Saudi Arabia,Main,21697.2,5,0,0,0
+Female,45,IT,United Arab Emirates,Main,14590.8,5,0,0,7
+Female,52,Quality Assurance,Egypt,South,28944,4.5,0,0,1
+Male,62,Facilities/Engineering,Egypt,North,27783,3,0,0,4
+Female,37,Account Management,United Arab Emirates,North,25207.2,1,2,0,2
+Male,35,Professional Training Group,Egypt,South,39538.8,5,6,0,10
+Male,22,Environmental Health/Safety,United Arab Emirates,North,24834.6,4.5,5,1,0
+Female,59,Environmental Compliance,Egypt,Main,21805.2,3,5,2,15
+Female,35,Training,Egypt,West,9558,3,0,0,3
+Male,65,Manufacturing,Egypt,North,30290.4,4.5,0,0,99
+Male,43,Account Management,United Arab Emirates,West,27140.4,5,0,0,0
+Male,24,Manufacturing,Saudi Arabia,Main,12398.4,4.5,6,0,37
+Male,27,Quality Assurance,Saudi Arabia,West,38518.2,5,0,0,0
+Male,59,Manufacturing,Egypt,North,24418.8,3,0,0,7
+Female,36,Manufacturing,Egypt,North,22345.2,3,2,5,6
+Female,23,Sales,Saudi Arabia,Main,16016.4,5,0,2,8
+Female,55,Facilities/Engineering,Egypt,West,29689.2,3,5,4,0
+Male,48,Facilities/Engineering,Egypt,East,39790.8,4.5,3,0,7
+Male,35,Account Management,Saudi Arabia,West,23423.4,5,5,0,1
+Female,22,Account Management,Egypt,Main,26168.4,3,5,0,10
+Male,41,Quality Control,Egypt,North,38102.4,4.5,6,1,48
+Male,66,Manufacturing,United Arab Emirates,West,25489.8,4.5,6,0,6
+Male,29,Quality Control,Egypt,Main,36552.6,5,0,0,6
+Male,53,Manufacturing,United Arab Emirates,Main,24948,2,0,0,2
+Male,24,Marketing,Egypt,East,25023.6,3,1,0,14
+Female,36,IT,United Arab Emirates,West,32864.4,2,0,0,8
+Male,40,Sales,Egypt,South,33755.4,3,3,0,85
+Male,27,Sales,Egypt,Main,27921.6,2,0,0,11
+Male,55,Quality Assurance,Syria,North,36288,2,4,0,5
+Male,55,Quality Control,Egypt,North,31348.8,5,0,5,3
+Male,45,Manufacturing,Egypt,Main,36225,3,0,0,4
+Male,64,Environmental Compliance,Syria,North,39702.6,3,0,5,48
+Female,62,Human Resources,Egypt,Main,33404.4,4.5,0,0,10
+Male,47,Facilities/Engineering,Egypt,North,40786.2,3,1,0,4
+Male,57,Training,Saudi Arabia,Main,39173.4,3,1,0,9
+Female,66,Research/Development,Egypt,North,33804,3,0,0,5
+Female,22,Manufacturing,Egypt,North,25488,4.5,0,0,1
+Female,32,Quality Control,Egypt,Main,24094.8,3,0,0,87
+Male,28,Manufacturing,Egypt,North,11050.2,1,0,0,0
+Male,54,Quality Assurance,Egypt,South,17892,5,2,6,7
+Male,35,Quality Assurance,Egypt,North,36640.8,3,0,0,12
+Female,62,Facilities/Engineering,United Arab Emirates,North,11286,5,6,0,4
+Female,31,Account Management,Egypt,North,20952,3,4,6,5
+Female,26,Manufacturing,Egypt,North,14817.6,1,0,3,2
+Female,63,IT,Egypt,Main,23371.2,3,0,2,0
+Female,38,Green Building,Saudi Arabia,North,23760,1,1,0,6
+Female,64,Account Management,Saudi Arabia,North,31093.2,2,0,0,8
+Male,49,Quality Assurance,Egypt,North,15510.6,1,1,5,7
+Female,35,Quality Assurance,Egypt,Main,36774,5,0,0,1
+Female,51,Account Management,Saudi Arabia,North,9525.6,5,0,0,8
+Male,45,Marketing,United Arab Emirates,West,18975.6,3,0,0,1
+Male,40,Facilities/Engineering,Syria,North,10357.2,5,6,0,1
+Male,25,IT,Saudi Arabia,North,25489.8,5,6,0,5
+Male,48,Manufacturing,United Arab Emirates,Main,23032.8,3,0,0,7
+Male,37,Manufacturing,Saudi Arabia,Main,23725.8,3,3,0,3
+Female,60,Account Management,United Arab Emirates,West,24105.6,4.5,0,0,7
+Female,57,Product Development,Saudi Arabia,North,8942.4,5,0,0,10
+Female,49,Quality Assurance,Egypt,North,29451.6,2,0,0,8
+Male,43,Manufacturing,Egypt,East,30353.4,3,3,3,3
+Male,24,Marketing,Egypt,North,29962.8,5,0,0,5
+Male,57,Facilities/Engineering,United Arab Emirates,Main,11327.4,1,4,0,27
+Female,35,IT,Egypt,West,9579.6,4.5,0,0,54
+Male,34,Marketing,Egypt,North,35355.6,3,0,0,4
+Male,50,Account Management,Egypt,West,36262.8,3,0,0,2
+Female,64,IT,Saudi Arabia,West,28263.6,4.5,1,0,5
+Female,65,Quality Assurance,Egypt,Main,17496,5,5,0,10
+Male,61,Creative,Egypt,West,28539,5,1,0,9
+Male,22,Facilities/Engineering,Egypt,North,12877.2,4.5,1,0,2
+Male,35,Manufacturing,United Arab Emirates,West,28375.2,3,1,0,50
+Male,63,Quality Control,Egypt,North,29836.8,3,6,0,5
+Male,40,Sales,Egypt,West,39375,2,6,3,0
+Male,22,Quality Assurance,United Arab Emirates,Main,17690.4,1,5,0,10
+Male,32,Professional Training Group,Saudi Arabia,Main,15523.2,5,3,0,10
+Male,60,Quality Assurance,Egypt,Main,17287.2,1,0,0,4
+Female,26,Quality Assurance,United Arab Emirates,West,28771.2,4.5,1,0,9
+Female,41,Quality Control,Egypt,North,14677.2,2,0,0,8
+Male,35,Manufacturing,Syria,North,14590.8,5,0,0,0
+Male,26,Facilities/Engineering,United Arab Emirates,East,34549.2,5,0,0,9
+Female,53,Quality Control,Egypt,Main,27874.8,5,0,0,8
+Female,64,Quality Control,Egypt,Main,20466,2,0,5,81
+Male,22,Quality Control,Egypt,Main,35292.6,3,0,0,9
+Female,44,Facilities/Engineering,Egypt,West,9687.6,3,2,0,11
+Male,57,Facilities/Engineering,Egypt,West,37346.4,5,2,0,45
+Male,33,Facilities/Engineering,United Arab Emirates,North,29244.6,5,0,0,6
+Female,40,Manufacturing,Saudi Arabia,South,15984,2,0,0,10
+Male,43,Quality Assurance,Egypt,South,25452,4.5,0,5,0
+Female,65,Manufacturing,Egypt,North,36180,2,0,0,8
+Female,49,Marketing,United Arab Emirates,Main,10897.2,4.5,0,0,17
+Female,23,Account Management,Saudi Arabia,South,16686,5,1,0,1
+Male,58,Manufacturing,Saudi Arabia,East,26775,4.5,6,0,6
+Male,41,Manufacturing,Syria,North,10105.2,4.5,2,0,3
+Male,35,Manufacturing,Saudi Arabia,Main,21508.2,3,0,0,4
+Male,57,Manufacturing,Egypt,South,18169.2,5,2,1,23
+Male,27,Manufacturing,Saudi Arabia,Main,26825.4,3,1,1,3
+Male,61,Product Development,United Arab Emirates,South,26447.4,1,0,0,5
+Male,66,Quality Control,Saudi Arabia,Main,24696,3,0,0,9
+Male,31,Quality Assurance,Egypt,North,14023.8,3,4,0,11
+Male,37,Creative,United Arab Emirates,South,21218.4,5,0,0,6
+Male,28,Marketing,Egypt,Main,18484.2,5,0,0,7
+Female,65,Facilities/Engineering,Egypt,West,30283.2,4.5,0,0,4
+Female,41,Quality Assurance,Egypt,North,10918.8,5,0,3,5
+Female,63,IT,United Arab Emirates,Main,35186.4,3,3,0,0
+Male,58,Quality Assurance,Egypt,Main,15208.2,2,0,0,50
+Female,32,Major Mfg Projects,Egypt,West,37216.8,5,0,0,10
+Male,32,Quality Assurance,Saudi Arabia,Main,24040.8,1,0,5,7
+Male,52,Quality Control,Egypt,North,13633.2,5,1,4,8
+Male,35,Creative,Syria,West,32054.4,3,0,0,2
+Male,34,Facilities/Engineering,United Arab Emirates,North,13570.2,5,0,0,9
+Male,22,Quality Assurance,Saudi Arabia,West,33793.2,4.5,1,0,32
+Female,23,Account Management,Egypt,North,17938.8,5,4,0,9
+Male,50,Account Management,Egypt,Main,25817.4,3,6,0,23
+Male,39,IT,Egypt,North,29030.4,5,5,0,2
+Female,23,Product Development,Egypt,North,32140.8,4.5,0,2,6
+Male,66,Quality Assurance,Lebanon,North,31966.2,2,0,0,3
+Female,26,Environmental Compliance,Egypt,Main,33566.4,1,0,0,45
+Male,33,Manufacturing Admin,Egypt,South,17703,5,6,0,10
+Male,36,Facilities/Engineering,Egypt,South,23524.2,3,0,0,0
+Female,30,Quality Assurance,Syria,West,13759.2,3,0,0,7
+Female,35,Product Development,United Arab Emirates,Main,29808,1,6,6,1
+Male,38,Manufacturing,Egypt,West,42978.6,5,4,0,2
+Female,51,Product Development,Egypt,Main,20196,4.5,0,3,15
+Female,49,Creative,United Arab Emirates,Main,25563.6,3,0,0,1
+Male,41,Quality Control,Egypt,West,13998.6,1,3,0,6
+Female,30,Manufacturing,Egypt,West,21837.6,3,0,0,1
+Male,23,Account Management,United Arab Emirates,South,18244.8,4.5,0,0,1
+Male,51,Quality Assurance,Lebanon,Main,17110.8,5,0,0,10
+Male,36,Quality Assurance,Egypt,West,32911.2,5,0,0,8
+Female,38,Manufacturing,Egypt,Main,14007.6,2,2,0,8
+Female,32,Manufacturing,Egypt,North,18046.8,2,0,0,3
+Male,24,Environmental Compliance,United Arab Emirates,West,38858.4,3,6,0,3
+Male,58,Manufacturing,Syria,Main,9991.8,5,6,0,2
+Male,32,Account Management,Egypt,Main,14943.6,4.5,1,0,153
+Male,53,Account Management,Egypt,Main,9651.6,3,0,0,5
+Male,63,Manufacturing Admin,Egypt,Main,16254,3,4,0,109
+Male,31,IT,United Arab Emirates,West,24192,5,0,5,1
+Female,61,Green Building,Syria,East,12247.2,2,0,0,14
+Male,39,Quality Control,Syria,Main,12826.8,2,5,0,10
+Female,27,Manufacturing,Egypt,West,10270.8,1,6,0,8
+Male,34,Product Development,United Arab Emirates,South,27077.4,3,0,0,1
+Male,33,Sales,Saudi Arabia,West,11579.4,2,0,0,10
+Male,31,Manufacturing,Egypt,North,34990.2,5,0,0,10
+Male,43,Account Management,Syria,North,19517.4,3,2,0,5
+Male,55,Account Management,Saudi Arabia,North,25200,3,1,0,0
+Male,45,Training,Egypt,Main,10231.2,3,0,0,10
+Male,38,Manufacturing,United Arab Emirates,Main,18358.2,4.5,0,0,9
+Male,30,IT,Saudi Arabia,South,21835.8,3,0,0,3
+Male,62,Facilities/Engineering,Egypt,Main,19630.8,2,0,6,9
+Female,35,Manufacturing,Egypt,West,27291.6,3,0,0,98
+Female,24,Account Management,Egypt,West,21405.6,5,1,0,7
+Male,30,IT,Egypt,Main,36905.4,4.5,0,0,2
+Female,29,Marketing,Egypt,Main,33588,1,1,4,1
+Female,26,Marketing,United Arab Emirates,North,22712.4,5,1,1,2
+Female,35,Account Management,United Arab Emirates,North,22053.6,4.5,0,0,10
+Male,48,Manufacturing,Egypt,South,20878.2,3,0,0,12
+Male,23,Quality Control,Saudi Arabia,West,40912.2,1,0,5,198
+Male,49,Environmental Compliance,United Arab Emirates,Main,27543.6,1,2,0,10
+Female,43,Environmental Health/Safety,Egypt,North,33696,3,3,0,2
+Female,60,Sales,Egypt,North,35758.8,4.5,0,0,1
+Male,30,Sales,United Arab Emirates,West,29370.6,4.5,0,0,9
+Male,64,Marketing,Syria,Main,12411,5,1,0,5
+Male,49,IT,Syria,South,24948,2,3,0,0
+Female,53,Account Management,United Arab Emirates,North,10519.2,2,5,0,5
+Female,66,Manufacturing,Egypt,Main,11286,5,1,0,3
+Female,34,Quality Control,United Arab Emirates,East,23068.8,5,4,0,12
+Female,23,Manufacturing,Egypt,West,10735.2,1,0,0,9
+Male,64,Quality Control,Syria,West,36729,3,0,0,5
+Male,31,Marketing,Egypt,West,8908.2,2,1,0,9
+Male,66,Quality Control,United Arab Emirates,West,16317,3,4,0,153
+Female,24,Marketing,Egypt,North,27291.6,3,3,0,16
+Male,39,Quality Assurance,Egypt,North,28438.2,3,0,0,6
+Male,59,Account Management,United Arab Emirates,West,11012.4,3,0,0,7
+Male,55,Product Development,Egypt,East,17715.6,3,0,3,7
+Male,62,Facilities/Engineering,Egypt,Main,20386.8,3,1,0,1
+Male,37,Marketing,Egypt,Main,10143,2,0,0,6
+Female,28,Facilities/Engineering,Egypt,Main,35035.2,3,0,0,10
+Female,34,Professional Training Group,Syria,Main,22658.4,4.5,0,0,3
+Female,48,Account Management,Saudi Arabia,North,21740.4,4.5,6,0,8
+Male,45,Creative,Egypt,North,26069.4,3,0,0,10
+Male,61,Sales,Egypt,Main,32029.2,5,0,6,6
+Female,57,Manufacturing,Egypt,West,27172.8,3,6,0,3
+Male,24,Quality Control,Egypt,West,9248.4,3,0,0,0
+Female,47,Quality Assurance,Saudi Arabia,West,32151.6,5,0,0,100
+Male,61,Account Management,Egypt,South,8857.8,4.5,0,0,64
+Male,38,Manufacturing,United Arab Emirates,Main,30605.4,5,0,0,7
+Female,23,Quality Control,Egypt,Main,7808.4,3,0,0,10
+Female,47,Facilities/Engineering,United Arab Emirates,South,30888,3,0,6,7
+Male,34,Major Mfg Projects,Lebanon,West,12562.2,5,1,0,68
+Male,42,Quality Control,United Arab Emirates,Main,27846,3,0,0,13
+Male,53,Manufacturing,Egypt,North,42726.6,1,0,3,1
+Male,43,Manufacturing,Egypt,West,33251.4,1,1,0,3
+Male,27,Human Resources,United Arab Emirates,Main,30592.8,5,0,0,35
+Male,49,Manufacturing Admin,Syria,West,29509.2,4.5,5,0,10
+Male,38,Product Development,Saudi Arabia,North,29383.2,3,3,0,8
+Female,23,Manufacturing,Egypt,North,26848.8,5,5,2,9
+Female,41,Quality Assurance,Lebanon,Main,14396.4,3,1,6,10
+Male,52,Quality Control,Egypt,Main,31424.4,4.5,2,0,2
+Male,38,Marketing,Saudi Arabia,Main,22150.8,5,0,0,0
+Male,47,Professional Training Group,United Arab Emirates,West,10458,5,0,0,71
+Male,49,Quality Control,United Arab Emirates,Main,18030.6,5,0,0,4
+Female,34,Facilities/Engineering,Egypt,North,32994,3,0,4,9
+Male,37,Marketing,United Arab Emirates,North,26019,3,4,3,4
+Male,58,Manufacturing,Egypt,Main,21457.8,5,2,0,10
+Male,43,Marketing,Egypt,South,21609,3,0,0,10
+Male,36,Quality Assurance,United Arab Emirates,Main,15724.8,5,0,6,7
